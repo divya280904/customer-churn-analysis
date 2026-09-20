@@ -320,6 +320,21 @@ For example, a higher churn rate among a particular contract or payment group do
 
 ---
 
+## 📓 Jupyter Notebook
+
+A detailed Jupyter Notebook documents the complete Python-based analysis, including:
+
+- Data loading and inspection
+- Data cleaning and feature engineering
+- Exploratory data analysis
+- Churn analysis by contract, tenure, payment method, and services
+- Customer segmentation
+- Key findings and business recommendations
+
+👉 [View the Customer Churn Analysis Notebook](notebooks/customer_churn_analysis.ipynb)
+
+---
+
 # 📁 Project Structure
 
 ```text
