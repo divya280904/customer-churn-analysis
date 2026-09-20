@@ -386,7 +386,7 @@ customer-churn-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/divya280904/customer-churn-analysis.git
 cd customer-churn-analysis
 ```
 
